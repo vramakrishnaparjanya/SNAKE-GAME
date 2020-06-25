@@ -1,1 +1,1 @@
-# SNAKE-GAME
+Snake-Game Using JavaScript
